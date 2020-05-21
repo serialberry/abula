@@ -2569,9 +2569,9 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 { line-height: 1.5; color: rgba(0, 0
 
 .bg-primary { background: #f10066; }
 
-.bg-primary-light { background: #ff8bbc; }
+.bg-primary-light { background: #ff2581; }
 
-.bg-secondary-light { background: white; }
+.bg-secondary-light { background: #c5eacb; }
 
 .bg-secondary { background: #a0dca9 !important; }
 
